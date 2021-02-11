@@ -1,2 +1,2 @@
 # Systems-of-point-charges
-This is a python file contains the code, jupyter notebook uses the code.
+There is a python file that contains the code, jupyter notebook uses the code.
